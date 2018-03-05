@@ -4,13 +4,16 @@ Bluejay is a company that mostly works WordPress projects. We use third party an
 
 Our proposal of test to can check your skills is: 
 
--> Build a wp plugin that can show related posts in a widget.
+<ul>
 
--> In the admin side the editors should be able connect post with other posts, pages and custom post types
+<li>Build a wp plugin that can show related posts in a widget.</li>
 
--> In frontend the editors can show the related post of the current post in a simple widget, can be a simple <ul> <li> with title and a link to the post.
+<li>In the admin side the editors should be able connect post with other posts, pages and custom post types</li>
 
--> We don't like the heavy scripts, so we recommend use plugin generators like https://wppb.me/, but fell free to use the structure that you want. 
+<li>In frontend the editors can show the related post of the current post in a simple widget, can be a simple < ul > < li > with title and a link to the post.</li>
 
--> When you finish, send a pull-request to this repo with your plugin, and add your comments to the README file. 
+<li>We don't like the heavy scripts, so we recommend use plugin generators like https://wppb.me/, but fell free to use the structure that you want.</li> 
 
+<li>When you finish, send a pull-request to this repo with your plugin, and add your comments to the README file. </li>
+
+</ul>
